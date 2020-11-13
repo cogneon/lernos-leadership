@@ -1,0 +1,36 @@
+site_name: Wie schreibt man einen lernOS Leitfaden?
+site_url: https://cogneon.github.io/
+
+docs_dir: src
+
+site_dir: ../docs/de
+
+nav:
+    - Über lernOS: index.md
+    - Grundlagen: 1-Grundlagen.md
+    - Lernpfad: 2-Lernpfad.md
+    - Anhang: 3-Anhang.md
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+    language: de
+
+repo_name: 'cogneon/lernos-template'
+repo_url: 'https://github.com/cogneon/lernos-template'
+
+google_analytics:
+  - 'UA-156969141-1'
+  - 'auto'
+
+extra:
+#    social:
+#        - type: 'twitter'
+#          link: 'https://twitter.com/lern_os'
+#        - type: 'linkedin'
+#          link: 'https://www.linkedin.com/showcase/lern-os'
+#        - type: 'github'
+#          link: 'https://github.com/cogneon'
+    disqus: lernos
