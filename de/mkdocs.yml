@@ -1,29 +1,39 @@
-site_name: Wie schreibt man einen lernOS Leitfaden?
+site_name: lernOS Leadership Leitfaden
 site_url: https://cogneon.github.io/
-
 docs_dir: src
-
 site_dir: ../docs/de
 
 nav:
-    - Über lernOS: index.md
+    - Willkommen: index.md
     - Grundlagen: 1-Grundlagen.md
     - Lernpfad: 2-Lernpfad.md
     - Anhang: 3-Anhang.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-Leadership-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-Leadership-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-Leadership-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-Leadership-Guide-de.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-Leadership-Guide-de.mobi
+    - Links:
+      - lernOS Website: https://lernos.org
+      - lernOS Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
+    custom_dir: src/overrides
     palette:
-        primary: 'deep orange'
-        accent: 'deep orange'
+        scheme: lernos
     language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
 
-repo_name: 'cogneon/lernos-template'
-repo_url: 'https://github.com/cogneon/lernos-template'
+extra_css:
+  - stylesheets/extra.css
 
-google_analytics:
-  - 'UA-156969141-1'
-  - 'auto'
+repo_name: 'cogneon/lernos-leadership'
+repo_url: 'https://github.com/cogneon/lernos-leadership'
 
 extra:
 #    social:
