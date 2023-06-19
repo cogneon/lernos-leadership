@@ -5,4 +5,4 @@ This lernOS Guide is part of [lernOS](https://lernos.org).
 Team:
 - Marianne
 - Doerte
-- Felix
+- Felix Harling
