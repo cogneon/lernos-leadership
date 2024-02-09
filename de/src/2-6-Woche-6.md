@@ -90,8 +90,7 @@ du?
 
 **Ein Entwicklungsmodell für Menschen, Teams und Organisationen**
 
-![](./src/images/image5.jpg){width="6.84375in"
-height="4.0207031933508315in"}
+![](images/image5.jpg)
 
 Grafik erstellt von Marianne Windelband und Johanna Zimmermann in
 Anlehnung an Don E. Beck und Christopher C. Cowan und auf Basis von

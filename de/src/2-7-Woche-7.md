@@ -95,8 +95,7 @@ analysieren, welche Angelegenheiten wir beeinflussen können und welche
 nicht. Es unterstützt uns, noch besser, strukturierter und gezielter
 unsere Handlungsfähigkeit zu entwickeln.
 
-![](./src/images/image7.png){width="6.106557305336833in"
-height="4.6689720034995625in"}
+![](images/image7.png)
 
 Stephen R. Covey hat das Modell mit seinem Bestseller „Die 7 Wege zur
 Effektivität" populär gemacht. In Anlehnung an Covey stellen wir euch
