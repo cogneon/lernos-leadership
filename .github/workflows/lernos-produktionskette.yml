@@ -1,0 +1,39 @@
+name: lernOS Produktionskette
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      # Repository auschecken, damit Workflow es nutzen kann
+      - uses: actions/checkout@v3
+      
+      # Delete Old Versions
+      - run: rm -rf ./de/${{ github.event.repository.name }}-guide.*
+      - run: rm -rf ./docs/de/*
+
+      # Create Chapter List
+      - name: Create Chapter List
+        id: chapter_list
+        run: echo "chapters=$(printf '%s ' ./de/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
+
+      # Create Web Version (mkdocs)
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-rss-plugin
+      - run: mkdocs build -f ./de/mkdocs.yml
+
+      # Geänderte Datein zurück ins Repository committen
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Erzeugt von automatischer lernOS Produktionskette
