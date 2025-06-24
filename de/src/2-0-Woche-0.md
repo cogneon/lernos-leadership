@@ -177,8 +177,7 @@ PowerPoint, PDF, PNG) werden.
 
 Um mit dem Canvas flexibel arbeiten zu können, solltest du am besten
 nicht direkt auf den Canvas schreiben, sondern Haftnotizen verwenden,
-die du frei platzieren kannst. Dafür sind sie da. ([[How to use the
-lern-OS-Canvas]{.underline}](https://www.youtube.com/watch?v=7a1Vq7ism5Y))
+die du frei platzieren kannst. Dafür sind sie da ([How to use the lernOS Canvas?](https://www.youtube.com/watch?v=7a1Vq7ism5Y)).
 Falls du digital arbeitest, kannst du dir einfach die Datei zweimal
 abspeichern, so hast du jederzeit eine unbearbeitete Variante parat.
 
