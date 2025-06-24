@@ -8,7 +8,7 @@ bzw. den ihr in der Gruppe oder im Tandem zusammen festlegt.
 Dieser Lernpfad enthält
 
 -   Woche für Woche eine genaue Anleitung, die dich durch deine
-    Lernreise führt -- mit Denkanstößen, Tipps und wichtigen Leitfragen
+    Lernreise führt - mit Denkanstößen, Tipps und wichtigen Leitfragen
 
 -   mehr als 15 Übungen - wir bezeichnen sie als Katas - die dir dabei
     helfen, das Beste aus dir und deiner Lernreise herauszuholen
@@ -26,14 +26,14 @@ Du findest in diesem Leitfaden zunächst die Anleitungen für die
 
 **Wie gehst du mit dem Lernpfad um?**
 
-Nimm dir vor Start der Lernreise (genannt: Sprint^7^) Zeit, den Aufbau
+Nimm dir vor Start der Lernreise (genannt: Sprint) Zeit, den Aufbau
 unseres Leadership-Guides und die einzelnen Katas genauer anzuschauen.
 Manchmal gibt es mehrere Katas in einer Woche. Für deine Reise gibt es
 immer eine Kata-Empfehlung. Wenn Du tiefer einsteigen willst oder auch
 nach Lust und Laune: Nutze auch die ergänzenden Katas. Grundsätzlich
 gilt: Es gibt keine Kata-Polizei, d. h. tausche gerne Katas aus oder
-modifiziere sie, damit sie besser zu deinen Zielen passen (siehe
-[[lernOS-Leitfaden]{.underline}](https://cogneon.github.io/lernos-for-you/de/2-2-1-Kata-1/)).
+modifiziere sie, damit [sie besser zu deinen Zielen passen (siehe lernOS For You - Leitfaden)]
+(https://cogneon.github.io/lernos-for-you/de/2-2-1-Kata-1/).
 
 **Lernen in der Gruppe, im Tandem oder allein?**
 
@@ -52,8 +52,7 @@ fragen. Nutz dafür auch die Hashtags #lernOS und/oder #lernOSleadership.
 Du kannst die Autor:innen des Leitfadens taggen, so kann dein Post
 einfacher gesehen und weitergeleitet werden.
 
-Außerdem kannst du den kostenlosen PeerFinder
-[https://web.peerfinder.app/de](https://web.peerfinder.app/de%20%20)
+Außerdem kannst du [den kostenlosen PeerFinder](https://web.peerfinder.app/de)
 ausprobieren. Der PeerFinder ist speziell dafür entwickelt worden, dass
 Lernzirkel zueinanderfinden können.
 
