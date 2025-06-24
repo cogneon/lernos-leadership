@@ -87,12 +87,12 @@ Was nimmst du dir bis nächste Woche vor?
 3.  Überlegt, welche Tools ihr in euren Rucksack packt, um miteinander
     gut zu kommunizieren:
 
-    a.  TEAMS, Skype, ZOOM, Webex, \...
+    a.  Teams, Zoom, \...
 
-    b.  WhatsApp, Signal, Telegram, Slack, mattermost
+    b.  Signal oder andere Messenger
 
 4.  Besprecht, wie ihr zwischen den Terminen kommunizieren wollt
-    (Telegram, WhatsApp, Signal, E-Mail, etc.).
+    (Signal, E-Mail, etc.).
 
 5.  Wie wollt ihr Informationen, Ergebnisse teilen? Vielleicht möchtet
     ihr OneNote oder ein digitales Whiteboard wie Miro, Conceptboard,
@@ -155,7 +155,7 @@ Auch hier die Empfehlung, schon jetzt zu überlegen, was du tun kannst,
 wenn deine Motivation mal nicht so hoch sein sollte. Kannst du dich mit
 etwas belohnen für deine Disziplin? Hilft es dir, wenn du mit anderen
 über deine Fortschritte sprichst oder sie anders öffentlich machst,
-vielleicht über Twitter, LinkedIn oder ESN^12^ (Enterprise Social
+vielleicht über Mastodon, LinkedIn oder ESN (Enterprise Social
 Network)?
 
 ## Kata 0.2: lernOS-Canvas
@@ -182,8 +182,7 @@ lern-OS-Canvas]{.underline}](https://www.youtube.com/watch?v=7a1Vq7ism5Y))
 Falls du digital arbeitest, kannst du dir einfach die Datei zweimal
 abspeichern, so hast du jederzeit eine unbearbeitete Variante parat.
 
-![Grafik 2](./src/images/image4.png){width="6.267360017497813in"
-height="4.584027777777778in"}
+![Grafik 2](./src/images/image4.png "lernOS-Canvas")
 
 Grafische Ansicht eines Canvas mit Aufteilung der Bereiche.
 
