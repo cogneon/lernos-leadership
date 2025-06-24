@@ -182,7 +182,7 @@ lern-OS-Canvas]{.underline}](https://www.youtube.com/watch?v=7a1Vq7ism5Y))
 Falls du digital arbeitest, kannst du dir einfach die Datei zweimal
 abspeichern, so hast du jederzeit eine unbearbeitete Variante parat.
 
-![Grafik 2](./src/images/image4.png "lernOS-Canvas")
+![Grafik 2](./images/image4.png "lernOS-Canvas")
 
 Grafische Ansicht eines Canvas mit Aufteilung der Bereiche.
 
