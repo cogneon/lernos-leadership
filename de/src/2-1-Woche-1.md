@@ -6,7 +6,7 @@ herausgefunden hast, oder ist es sinnvoll, Teilziele zu identifizieren?
 Wichtig ist, dass du dein Ziel realistisch steckst und es in 12 Wochen
 erreichen kannst. Was willst du zum Thema Leadership am Ende des
 Lernpfads erreicht haben? Bei welchem Ziel können dich Menschen -- z.B.
-aus deinem Lerncircle - untersützen?
+aus deinem Lerncircle - unterstützen?
 
 *Tipp:*
 
@@ -16,34 +16,34 @@ wieder nachjustieren und verfeinern.
 
 **Als Vorbereitung für diese Woche**
 
--   Kata 1.1: Standortbestimmung
+- Kata 1.1: Standortbestimmung
 
--   Wenn Du Lust hast, thematisch noch tiefer einzusteigen: Kata 1.2
-    (Beziehungsliste)
+- Wenn Du Lust hast, thematisch noch tiefer einzusteigen: Kata 1.2
+  (Beziehungsliste)
 
 **Im Weekly**
 
--   Check-in (10 min)
+- Check-in (10 min)
 
 > Wie geht es dir aktuell? Was hast du seit der letzten Woche erreicht?
 
--   Austausch, Feedback und Tipps zu der Kata 1.0 (40 min)
+- Austausch, Feedback und Tipps zu der Kata 1.0 (40 min)
 
 > Was ist deine Definition von Leadership?
->
+> 
 > Welches Ziel aus Kata 1 möchtest du mit den anderen teilen?
->
+> 
 > Warum machst du das?
->
+> 
 > Was inspiriert dich daran?
->
+> 
 > Was heißt es für dich, ein Ziel erreicht zu haben?
->
+> 
 > Wie feierst du, wenn du dein Ziel erreicht hast?
->
+> 
 > Hast du einen Termin mit dir selbst in den Kalender eingetragen?
 
--   Check-out (10 min)
+- Check-out (10 min)
 
 > Was nimmst du dir bis zur nächsten Woche vor?
 
@@ -54,7 +54,7 @@ nächsten Treffens die Kata aus Woche 2.
 
 *Tipp:*
 
-Wenn du mit Arbeitsweisen wie Working Out Loud^9^ (WOL) oder lernOS noch
+Wenn du mit Arbeitsweisen wie Working Out Loud (WOL) oder lernOS noch
 nicht vertraut bist, dann plane für dich sicherheitshalber ein wenig
 mehr Zeit ein.
 
@@ -64,46 +64,44 @@ mehr Zeit ein.
 
 **Teil 1: Mein Leadershipverständnis**
 
--   Wo startest du deine Reise? Wo stehst du jetzt?
+- Wo startest du deine Reise? Wo stehst du jetzt?
 
--   Führ dir noch einmal die Ausführungen der vergangenen Woche vor
-    Augen. Wieso hast du dich für den lernOS-Leadership-Lernpfad
-    entschieden?
+- Führ dir noch einmal die Ausführungen der vergangenen Woche vor
+  Augen. Wieso hast du dich für den lernOS-Leadership-Lernpfad
+  entschieden?
 
-```{=html}
-<!-- -->
-```
--   Reflexion:
+- Reflexion:
 
 > a\. Was ist Leadership für dich? Wie definierst du Leadership für
 > dich?
->
+> 
 > b\. Formulier 5 Eigenschaften in Form von Hashtags, die diesen Begriff
 > für dich persönlich am besten beschreiben. Welche Eigenschaften sind
 > wichtig?
->
+> 
 > c\. Recherchier zusätzlich im Internet mindestens 3 Definitionen von
 > Leadership und vergleich sie mit deinen Hashtags. Gibt es hier
 > Überraschungen oder Aha-Momente für dich?
 
 **Teil 2: Mein Ziel für die nächsten 12 Wochen der Leadershipreise**
 
--   Formulier dein Ziel. Wo willst du hin? Welche Wegstrecke willst du
-    in 12 Wochen zurückgelegt haben, vielleicht ist es auch ein
-    Meilenstein auf einem längeren Weg.
+- Formulier dein Ziel. Wo willst du hin? Welche Wegstrecke willst du
+  in 12 Wochen zurückgelegt haben, vielleicht ist es auch ein
+  Meilenstein auf einem längeren Weg.
 
--   Was willst du in den nächsten 12 Wochen erreichen? (siehe
-    > Beschreibung im Anschluss) und woran merkst du, dass du dein Ziel
-    > erreicht hast. Um das festzustellen, mach dein Ziel messbar, z.B.
-    > nach der [SMART^10^-Regel oder nach
-    > OKR^1^](https://www.strategy-lab.com/wie-helfen-mir-objectives-key-results-aka-okr-bei-der-erreichung-meiner-ziele)^1^.
+- Was willst du in den nächsten 12 Wochen erreichen? (siehe
+  
+  > Beschreibung im Anschluss) und woran merkst du, dass du dein Ziel
+  > erreicht hast. Um das festzustellen, mach dein Ziel messbar, z.B.
+  > nach der [SMART-Regel oder nach OKR](https://www.strategy-lab.com/wie-helfen-mir-objectives-key-results-aka-okr-bei-der-erreichung-meiner-ziele).
 
 > (siehe Beschreibung im Glossar im Anschluss an diese Tabelle)
 
--   Wer könnte dich in den nächsten 12 Wochen dabei unterstützen, dein
-    > Ziel zu erreichen? Sammle die Namen auf einer Beziehungsliste mit
-    > 10-15 Personen, die dir bei der Zielerreichung helfen können.
-    > (siehe Beschreibung im Anschluss)
+- Wer könnte dich in den nächsten 12 Wochen dabei unterstützen, dein
+  
+  > Ziel zu erreichen? Sammle die Namen auf einer Beziehungsliste mit
+  > 10-15 Personen, die dir bei der Zielerreichung helfen können.
+  > (siehe Beschreibung im Anschluss)
 
 *Tipp:*
 
@@ -165,23 +163,23 @@ hoch ansetzt, damit du es in der gegebenen Zeit erreichen kannst.
 
 Weitere Informationen:
 
--   [Wikipedia-Artikel SMART
-    Criteria](https://en.wikipedia.org/wiki/SMART_criteria) (aufgerufen
-    25.11.21)
+- [Wikipedia-Artikel SMART
+  Criteria](https://en.wikipedia.org/wiki/SMART_criteria) (aufgerufen
+  25.11.21)
 
--   [MIT Sloan-Artikel: With Goals, FAST Beats
-    SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)
+- [MIT Sloan-Artikel: With Goals, FAST Beats
+  SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)
 
--   [Ted Talk: How We Can Make the World a Better Place by
-    2030](https://www.ted.com/talks/michael_green_how_we_can_make_the_world_a_better_place_by_2030?language=de)
+- [Ted Talk: How We Can Make the World a Better Place by
+  2030](https://www.ted.com/talks/michael_green_how_we_can_make_the_world_a_better_place_by_2030?language=de)
 
--   [Video: How Google Sets Goals -- OKRs mit Google-Ventures-Partner
-    Rick Klau](https://www.youtube.com/watch?v=mJB83EZtAjc)
+- [Video: How Google Sets Goals -- OKRs mit Google-Ventures-Partner
+  Rick Klau](https://www.youtube.com/watch?v=mJB83EZtAjc)
 
--   Buch: Introduction to OKRs, von Christina Wodtke, O'Reilly Media
-    Inc. 2016
+- Buch: Introduction to OKRs, von Christina Wodtke, O'Reilly Media
+  Inc. 2016
 
--   Buch: The Beginner's Guide To OKR, von Felipe Castro
+- Buch: The Beginner's Guide To OKR, von Felipe Castro
 
 ## Kata 1.2: Deine Beziehungsliste
 
@@ -213,5 +211,3 @@ deine Kontaktlisten oder sozialen Netzwerke, um mehr Personen zu finden:
 9\. \....
 
 10\.....
-
-
