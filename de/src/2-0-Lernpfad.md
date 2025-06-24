@@ -55,7 +55,7 @@ einfacher gesehen und weitergeleitet werden.
 Außerdem kannst du den kostenlosen PeerFinder
 [https://web.peerfinder.app/de](https://web.peerfinder.app/de%20%20)
 ausprobieren. Der PeerFinder ist speziell dafür entwickelt worden, dass
-Lernzirkel^8^ zueinanderfinden können.
+Lernzirkel zueinanderfinden können.
 
 *Hinweis für Alleinreisende:*
 
@@ -65,9 +65,6 @@ Austausch unterstützt dich auf deinem Weg. Deshalb überleg dir jetzt
 schon, wem du von deinen Reiseerlebnissen und Erkenntnissen erzählen
 willst und wen du ansprechen möchtest, wenn du für eine Kata den
 Austausch mit jemand anderem brauchst.
-
-**\
-**
 
 **Dein Zeitbedarf**
 
