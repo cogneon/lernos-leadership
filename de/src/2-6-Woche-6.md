@@ -68,7 +68,7 @@ Grafik erstellt von Marianne Windelband und Johanna Zimmermann in Anlehnung an D
 
 **Spiral Dynamics: Eine nähere Betrachtung der ersten 7 Entwicklungsstufen**
 
-![Tabelle basierend auf Don E. Beck, Christopher C. Cowan: Spiral Dynamics, 9te Auflage 2020, Zusammenstellung M. Windelband](/Users/felixflowdiscovery/Documents/GitHub/lernos-leadership/de/src/images/image6.png)
+![Tabelle basierend auf Don E. Beck, Christopher C. Cowan: Spiral Dynamics, 9te Auflage 2020, Zusammenstellung M. Windelband](images/image6.png)
 
 Tabelle basierend auf Don E. Beck, Christopher C. Cowan: Spiral Dynamics, 9te Auflage 2020, Zusammenstellung M. Windelband
 
