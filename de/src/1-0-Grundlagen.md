@@ -1,4 +1,4 @@
-![](./src/images/image3.jpeg)
+![lernos](images/image3.jpeg)
 
 # Grundlagen
 
