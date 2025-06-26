@@ -136,7 +136,7 @@ Wähl eine Kudo-Karte und schreib sie für einen Member deines Circles bzw. für
 
 Hier findest du die Karten zum Download und/oder Ausdrucken:
 
-- [[https://www.cocondi.de/wp-content/uploads/2018/10/M30_Kudo-Cards-2018-Deutsch.pdf](https://www.cocondi.de/wp-content/uploads/2018/10/M30_Kudo-Cards-2018-Deutsch.pdf)
+- [https://www.cocondi.de/wp-content/uploads/2018/10/M30_Kudo-Cards-2018-Deutsch.pdf](https://www.cocondi.de/wp-content/uploads/2018/10/M30_Kudo-Cards-2018-Deutsch.pdf)
 
 Idee: Stell die Karten doch auch deinem Team vor und zur Verfügung.
 
@@ -146,9 +146,9 @@ Weiterführende Links:
 
 - <https://www.agilewh.de/wp-content/uploads/2014/09/Management-3.0-Workout-Design-Edition-B.-Kudo-Box-and-Kudo-Cards-1.pdf>
 
-- [[https://agilestrides.com/blog/implementing-kudo-cards/](https://agilestrides.com/blog/implementing-kudo-cards/)
+- [https://agilestrides.com/blog/implementing-kudo-cards/](https://agilestrides.com/blog/implementing-kudo-cards/)
 
-- [[https://vitaminp.info/einfach-mal-danke-sagen-mit-kudo-karten/](https://vitaminp.info/einfach-mal-danke-sagen-mit-kudo-karten/)
+- [https://vitaminp.info/einfach-mal-danke-sagen-mit-kudo-karten/](https://vitaminp.info/einfach-mal-danke-sagen-mit-kudo-karten/)
 
 - <https://lobkaertchen.de>
 
