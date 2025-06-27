@@ -30,14 +30,14 @@ vorzubereiten.
 
 **Als Vorbereitung für diese Woche**
 
--   Kata 0.1.: Rucksack packen \...
+- Kata 0.1.: Rucksack packen \...
 
--   Wenn Du Lust hast, thematisch noch tiefer einzusteigen: Kata 0.2
-    (lernOS-Canvas)
+- Wenn Du Lust hast, thematisch noch tiefer einzusteigen: Kata 0.2
+  (lernOS-Canvas)
 
 **Im Weekly**
 
--   Check-in (10min)
+- Check-in (10min)
 
 > Willkommen! Schön, dass du dabei bist! Denk einen Moment darüber nach,
 > warum du dich auf diese Reise begeben hast. War es der Wunsch nach
@@ -46,12 +46,12 @@ vorzubereiten.
 > handelt - nimm dir jetzt einen Moment Zeit, um deine persönlichen
 > Gründe zu erfassen. Teil sie in der Vorstellungsrunde zusammen mit
 > weiteren Informationen zu deiner Person: Wer bist du? Stell dich vor.
->
+> 
 > Wenn du allein reist, kannst du deine Gründe gerne mit einer
 > vertrauten Person besprechen. Aber auch das Aufschreiben und die
 > Reflexion für dich selbst sind oft schon sehr hilfreich.
 
--   Austausch (40 min) über Kata 0.2 dann über Kata 0.1
+- Austausch (40 min) über Kata 0.2 dann über Kata 0.1
 
 Für die kommenden Wochen gilt es, ein Ziel zu definieren. Doch wie
 gelingt dies? Mit dem lernOS-Canvas -- Kata 0.2
@@ -65,10 +65,9 @@ Falls du den Canvas noch nicht angeschaut hast, könnt ihr das jetzt tun.
 Klär jetzt deine Fragen, damit du den Canvas bis zur nächsten Woche
 ausfüllen kannst.
 
--   Check-out (10 min)
+- Check-out (10 min)
 
 Was nimmst du dir bis nächste Woche vor?
-
 
 # Kata-Log
 
@@ -76,32 +75,32 @@ Was nimmst du dir bis nächste Woche vor?
 
 **Kata für Gruppenreisende (Lernzirkel)**
 
-1.  Eine Circle-Moderation kann hilfreich sein, um das Zeitmanagement
-    einzuhalten und diszipliniert eure Ziele und Termine zu verfolgen.
-    Sprecht darüber und entscheidet, ob ihr jemanden benennen wollt und
-    welche Aufgaben die Person übernimmt bzw. nicht übernimmt.
+1. Eine Circle-Moderation kann hilfreich sein, um das Zeitmanagement
+   einzuhalten und diszipliniert eure Ziele und Termine zu verfolgen.
+   Sprecht darüber und entscheidet, ob ihr jemanden benennen wollt und
+   welche Aufgaben die Person übernimmt bzw. nicht übernimmt.
 
-2.  Legt fest, wann, wo und wie ihr euch wöchentlich treffen wollt.
-    Reserviert für jeden Termin jeweils 1 Stunde.
+2. Legt fest, wann, wo und wie ihr euch wöchentlich treffen wollt.
+   Reserviert für jeden Termin jeweils 1 Stunde.
 
-3.  Überlegt, welche Tools ihr in euren Rucksack packt, um miteinander
-    gut zu kommunizieren:
+3. Überlegt, welche Tools ihr in euren Rucksack packt, um miteinander
+   gut zu kommunizieren:
+   
+   a.  Teams, Zoom, \...
+   
+   b.  Signal oder andere Messenger
 
-    a.  Teams, Zoom, \...
+4. Besprecht, wie ihr zwischen den Terminen kommunizieren wollt
+   (Signal, E-Mail, etc.).
 
-    b.  Signal oder andere Messenger
+5. Wie wollt ihr Informationen, Ergebnisse teilen? Vielleicht möchtet
+   ihr OneNote oder ein digitales Whiteboard wie Miro, Conceptboard,
+   Jamboard oder ein Padlet verwenden.
 
-4.  Besprecht, wie ihr zwischen den Terminen kommunizieren wollt
-    (Signal, E-Mail, etc.).
-
-5.  Wie wollt ihr Informationen, Ergebnisse teilen? Vielleicht möchtet
-    ihr OneNote oder ein digitales Whiteboard wie Miro, Conceptboard,
-    Jamboard oder ein Padlet verwenden.
-
-6.  Vereinbart eine Zusammenarbeit nach dem Motto: „What happens in
-    Vegas, stays in Vegas." Das bedeutet, dass sich jedes
-    Circle-Mitglied darauf verlassen kann, dass alles, was im Circle
-    geschieht, nicht weitergetragen wird.
+6. Vereinbart eine Zusammenarbeit nach dem Motto: „What happens in
+   Vegas, stays in Vegas." Das bedeutet, dass sich jedes
+   Circle-Mitglied darauf verlassen kann, dass alles, was im Circle
+   geschieht, nicht weitergetragen wird.
 
 *Tipp:*
 
@@ -119,10 +118,10 @@ verschieben wollt.
 
 **Kata für Alleinreisende:**
 
-1.  Was kannst du tun, um sicherzustellen, dass du deine Lernzeit auch
-    wirklich einhältst?
+1. Was kannst du tun, um sicherzustellen, dass du deine Lernzeit auch
+   wirklich einhältst?
 
-2.  Trage deine Lernzeit in deinem Kalender ein.
+2. Trage deine Lernzeit in deinem Kalender ein.
 
 > Wie organisierst du deine Lernzeit?
 
@@ -130,17 +129,17 @@ Wo sammelst du deine Ergebnisse?
 
 Was sind deine primären Arbeitstools?
 
-3.  Zeichne dir ein Bild deines Ziels und häng es dir an eine gut
-    sichtbare Stelle in deiner Wohnung auf. Schau es an und stell dir
-    vor, wie es sich anfühlt, das Ziel erreicht zu haben.
+3. Zeichne dir ein Bild deines Ziels und häng es dir an eine gut
+   sichtbare Stelle in deiner Wohnung auf. Schau es an und stell dir
+   vor, wie es sich anfühlt, das Ziel erreicht zu haben.
 
-4.  Such dir Unterstützer:innen in deinem Umfeld, die dich zum
-    Durchhalten motivieren können.
+4. Such dir Unterstützer:innen in deinem Umfeld, die dich zum
+   Durchhalten motivieren können.
 
-5.  Überleg dir, welche Hindernisse oder Störfaktoren sich dir in den
-    nächsten Wochen in den Weg stellen könnten, die dich davon abhalten,
-    bis zum Ende des Circles dranzubleiben. Ergreif entsprechende
-    Gegenmaßnahmen, um diese Hindernisse zu umgehen oder zu überwinden.
+5. Überleg dir, welche Hindernisse oder Störfaktoren sich dir in den
+   nächsten Wochen in den Weg stellen könnten, die dich davon abhalten,
+   bis zum Ende des Circles dranzubleiben. Ergreif entsprechende
+   Gegenmaßnahmen, um diese Hindernisse zu umgehen oder zu überwinden.
 
 *Tipp:*
 
@@ -171,9 +170,8 @@ wurden. Doch die Benennungen der Bereiche wurden geändert, um sie den
 Arbeitsthemen von lernOS anzupassen.
 
 Der lernOS-Canvas, der untenstehend abgebildet ist, kann von der
-lernOS-Webseite in verschiedenen Formaten heruntergeladen (z.B.
+lernOS-Webseite [in verschiedenen Formaten](https://github.com/cogneon/lernos-core/tree/master/lernOS%20Canvas/de) heruntergeladen (z.B.
 PowerPoint, PDF, PNG) werden.
-<https://cogneon.github.io/lernos-for-you/de/2-0-Lernpfade/>
 
 Um mit dem Canvas flexibel arbeiten zu können, solltest du am besten
 nicht direkt auf den Canvas schreiben, sondern Haftnotizen verwenden,
@@ -197,5 +195,3 @@ verwendet, die bei der Zielerreichung unterstützen können. Vorhandene
 Ressourcen (z.B. Dokumente, Checklisten, Videos etc.) werden in „Meine
 Wissens-Werte" aufgeführt. Unter „Meine Ablageorte" können wertvolle
 Ressourcen notiert werden, um sie großzügig mit dem Netzwerk zu teilen.
-
-
