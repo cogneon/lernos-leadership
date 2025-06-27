@@ -73,7 +73,7 @@ Wenn du mit Arbeitsweisen wie Working Out Loud (WOL) oder lernOS noch nicht vert
 
 - Formulier dein Ziel. Wo willst du hin? Welche Wegstrecke willst du in 12 Wochen zurückgelegt haben, vielleicht ist es auch ein Meilenstein auf einem längeren Weg.
 
-- Was willst du in den nächsten 12 Wochen erreichen? (siehe Beschreibung im Anschluss) und woran merkst du, dass du dein Ziel erreicht hast. Um das festzustellen, mach dein Ziel messbar, z.B. nach der [SMART-Regel oder nach OKR](https://www.strategy-lab.com/wie-helfen-mir-objectives-key-results-aka-okr-bei-der-erreichung-meiner-ziele).
+- Was willst du in den nächsten 12 Wochen erreichen? (siehe Beschreibung im Anschluss) und woran merkst du, dass du dein Ziel erreicht hast. Um das festzustellen, mach dein Ziel messbar, z.B. nach der SMART-Regel oder nach OKR.
 
 - Wer könnte dich in den nächsten 12 Wochen dabei unterstützen, dein Ziel zu erreichen? Sammle die Namen auf einer Beziehungsliste mit 10-15 Personen, die dir bei der Zielerreichung helfen können (siehe Beschreibung im Anschluss).
 
