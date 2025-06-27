@@ -12,17 +12,7 @@ Schröder, Dörte: Change-Management in Projekten: Komplexität gemeinsam bewäl
 
 ## Glossar
 
-****Barcamp**: Ein Barcamp ist ein offenes Veranstaltungsformat, auch Un-Konferenz oder Ad-hoc-Konferenz genannt. Inhalte und Ablauf der Tagung sind zu Beginn noch offen und werden erst vor Ort von den Teilnehmenden festgelegt. Weitere Informationen findest du hier:
-[https://www.eventbrite.de/blog/barcamp-methode-definition-ablauf-regeln/#definition-barcamp-methode](https://www.eventbrite.de/blog/barcamp-methode-definition-ablauf-regeln/#definition-barcamp-methode)
-
-**Sketchnoting**: Der Begriff ist eine Zusammensetzung aus Sketch (Skizzen) und Note (Notizen) -- also Notizen, die aus Text, Bild und Strukturen bestehen. Die Erstellung einer Sketchnote wird Sketchnoting genannt und oft als Alternative zur konventionellen Protokollführung genutzt. Weitere Informationen findest du hier:
-[https://sketchnoting.net/](https://sketchnoting.net/)
-
-**Expert Debriefing**: Eine Methode, die dazu dient
-Expert:innen-Wissen zu erfassen, zu strukturieren und so weiterhin (für
-das Unternehmen und/oder die Nachfolge) nutzbar zu machen. Es gibt sogar
-einen LernOS Guide dazu:
-[https://cogneon.github.io/lernos-expert-debriefing/de/1-1-Geschichte-des-Expert-Debriefings/](https://cogneon.github.io/lernos-expert-debriefing/de/1-1-Geschichte-des-Expert-Debriefings/)
+**Barcamp**: Ein Barcamp ist ein offenes Veranstaltungsformat, auch Un-Konferenz oder Ad-hoc-Konferenz genannt. Inhalte und Ablauf der Tagung sind zu Beginn noch offen und werden erst vor Ort von den Teilnehmenden festgelegt. Weitere Informationen findest du im [lernOS Barcamp Leitfaden](https://barcamp.lernos.org/de/).
 
 **CC BY**: Die Inhalte dieses Leitfadens stehen unter der offenen [Creative Commons Lizenz CC BY](https://creativecommons.org/licenses/by/4.0/deed.de) und können frei weiterverwendet werden. Du darfst diesen Leitfaden
 
@@ -36,26 +26,29 @@ Namensnennung: Du musst angemessene Urheber- und Rechteangaben machen, einen Lin
 
 Keine weiteren Einschränkungen: Du darfst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
-**Weekly**: Das Weekly ist der wöchentliche Termin, den du dir bzw. den ihr in der Gruppe zusammen festlegt. Dieses Treffen kann entweder persönlich oder virtuell stattfinden.
+**ESN**: Enterprise Social Network - aus dem Englischen übersetzt, meint es das soziale Netzwerk oder auch Intranet von Unternehmen.
+
+**Expert Debriefing**: Eine Methode, die dazu dient
+Expert:innen-Wissen zu erfassen, zu strukturieren und so weiterhin (für
+das Unternehmen und/oder die Nachfolge) nutzbar zu machen. Weitere Infos findest du im [lernOS Expert Debriefing Leitfaden](https://expert-debriefing.lernos.org/de/).
 
 **Kata**: In jeder Woche werden zur Zielerreichung Übungen vorgeschlagen, diese heißen Katas.
 
-**Sprint**: lernOS wird in 13 Wochen praktiziert. Ähnlich wie bei Scrum, wird dieser Zeitraum als Sprint bezeichnet. Weitere Infos dazu gibt es auch hier:
-[https://cogneon.github.io/lernos-for-you/de/1-3-Lebenslanges-Lernen-mit-lernOS/#lernos-sprints-neues-lernen-in-nur-13-wochen](https://cogneon.github.io/lernos-for-you/de/1-3-Lebenslanges-Lernen-mit-lernOS/#lernos-sprints-neues-lernen-in-nur-13-wochen)
+**Learning Circle, Lernzirkel**: Wenn du lernOS nicht alleine machen möchtest, kannst du dich in einer Gruppe von 4-5 Personen zusammenschließen. Diese Gruppe wird Learning Circle oder auf Deutsch Lernzirkel genannt. Weitere Informationen findest du ebenso im lernOS für Dich Leitfaden (siehe Sprint).
 
-**Learning Circle, Lernzirkel**: Wenn du lernOS nicht alleine machen möchtest, kannst du dich in einer Gruppe von 4-5 Personen zusammenschließen. Diese Gruppe wird Learning Circle oder auf Deutsch Lernzirkel genannt. Weitere Informationen findest du hier:
-[https://cogneon.github.io/lernos-for-you/de/1-3-lernOS-Circle/](https://cogneon.github.io/lernos-for-you/de/1-3-lernOS-Circle/)
-
-**WOL Working Out Loud**: WOL ist eine Selbstlern-Methode und auch eine Einstellung. Der Begriff wurde 2010 von Bryce Williams aufgegriffen und 2015 von John Stepper zu einer Methode weiterentwickelt. Weitere Infos dazu gibt es hier:
-[https://de.wikipedia.org/wiki/Working_out_loud](https://de.wikipedia.org/wiki/Working_out_loud) und hier: [https://workingoutloud.com/de/home/](https://workingoutloud.com/de/home/)
-
-**SMART**: SMART ist ein Akronym für Specific Measurable Achievable Reasonable Time Bound und hilft als Methode dabei, Ziele richtig zu formulieren und dann auch zu erreichen. Hier gibt es dazu mehr: [https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/karriereentwicklung/smart-methode](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/karriereentwicklung/smart-methode)
-
-**OKR**: OKR steht für Objectives (Ziele) und Key Results (Erfolgsmessung). Mehr Informationen findest du hier: [https://www.strategy-lab.com/wie-helfen-mir-objectives-key-results-aka-okr-bei-der-erreichung-meiner-ziele](https://www.strategy-lab.com/wie-helfen-mir-objectives-key-results-aka-okr-bei-der-erreichung-meiner-ziele)
-
-**ESN**: Enterprise Social Network - aus dem Englischen übersetzt, meint es das soziale Netzwerk oder auch Intranet von Unternehmen.
+**OKR**: OKR steht für Objectives (Ziele) und Key Results (Erfolgsmessung). Mehr Informationen findest du ebenso im Lernpfad Zielorientierung & Fokussierung im [lernOS für Dich Leitfaden](https://4you.lernos.org/de/).
 
 **Scrum**: Rahmenwerk für die agile (Software-)Produktentwicklung.
+
+**Sketchnoting**: Der Begriff ist eine Zusammensetzung aus Sketch (Skizzen) und Note (Notizen) -- also Notizen, die aus Text, Bild und Strukturen bestehen. Die Erstellung einer Sketchnote wird Sketchnoting genannt und oft als Alternative zur konventionellen Protokollführung genutzt. Weitere Informationen findest du im [lernOS Sketchnoting-Leitfaden](https://cogneon.github.io/lernos-sketchnoting/de/0100_Vorwort/).
+
+**SMART**: SMART ist ein Akronym für Specific Measurable Achievable Reasonable Time Bound und hilft als Methode dabei, Ziele richtig zu formulieren und dann auch zu erreichen. Hier gibt es dazu mehr: [[SMART-Methode | Karriere-Tipps | Robert Half](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/karriereentwicklung/smart-methode)
+
+**Sprint**: lernOS wird in 13 Wochen praktiziert. Ähnlich wie bei Scrum, wird dieser Zeitraum als Sprint bezeichnet. Weitere Infos dazu gibt es im [lernOS für Dich Leitfaden](https://4you.lernos.org/de/).
+
+**Weekly**: Das Weekly ist der wöchentliche Termin, den du dir bzw. den ihr in der Gruppe zusammen festlegt. Dieses Treffen kann entweder persönlich oder virtuell stattfinden.
+
+**WOL Working Out Loud**: WOL ist eine Selbstlern-Methode und auch eine Einstellung. Der Begriff wurde 2010 von Bryce Williams aufgegriffen und 2015 von John Stepper zu einer Methode weiterentwickelt. Weitere Infos dazu gibt es hier:
 
 # Stop reading, start doing!
 
