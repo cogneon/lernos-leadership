@@ -118,11 +118,9 @@ Um die einzelnen Ebenen des Circle of Influence genauer zu beleuchten, helfen di
 > 
 > Was verbirgt sich hinter meinem derzeitigen Widerstand? Was würde passieren, wenn ich diesen überwinden würde? Wie kann ich die dahinter liegenden Bedürfnisse und Wünsche noch leben?
 > 
-> Die Reflexionsfragen sind inspiriert von folgenden Beiträgen:
+> Die Reflexionsfragen sind inspiriert von folgendem Beitrag:
 > 
 > <https://montags-impulse.de/2021/03/22/circle-of-influence/>
-> 
-> <https://www.businessvillage.de/Circle-of-Influence-Das-effektive-Tool-fuer-den-Neustart/mag-1954.html>
 
 ## Kata 7.3: Dank und Wertschätzung
 
@@ -144,12 +142,8 @@ Weiterführende Links:
 
 - <https://management30.com/practice/kudo-cards/>
 
-- <https://www.agilewh.de/wp-content/uploads/2014/09/Management-3.0-Workout-Design-Edition-B.-Kudo-Box-and-Kudo-Cards-1.pdf>
-
 - [https://agilestrides.com/blog/implementing-kudo-cards/](https://agilestrides.com/blog/implementing-kudo-cards/)
 
 - [https://vitaminp.info/einfach-mal-danke-sagen-mit-kudo-karten/](https://vitaminp.info/einfach-mal-danke-sagen-mit-kudo-karten/)
 
 - <https://lobkaertchen.de>
-
-
